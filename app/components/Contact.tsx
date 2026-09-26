@@ -234,7 +234,7 @@ export default function Contact() {
             <div className="contact-alts">
               <h3>Prefer to reach out directly?</h3>
               {[
-                { icon: '💬', label: 'WhatsApp', value: '+254 700 000 000', href: 'https://wa.me/254700000000' },
+                { icon: '💬', label: 'WhatsApp', value: '+254 700 000 000', href: 'https://wa.me/254771910278' },
                 { icon: '✉️', label: 'Email', value: 'andrewkimani766@gmail.com', href: 'mailto:andrewkimani766@gmail.com' },
                 { icon: '🔗', label: 'LinkedIn', value: 'andrew-kimani', href: 'https://linkedin.com/in/andrew-kimani' },
               ].map(c => (
@@ -247,7 +247,7 @@ export default function Contact() {
                 </a>
               ))}
               <div className="contact-note">
-                <strong>Typical turnaround:</strong> most sites are live within 2–4 weeks of your first conversation with us.
+                <strong>Typical turnaround:</strong> most sites are live within 2 weeks of your first conversation with us.
               </div>
             </div>
           </div>
