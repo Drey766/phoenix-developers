@@ -234,7 +234,7 @@ export default function Contact() {
             <div className="contact-alts">
               <h3>Prefer to reach out directly?</h3>
               {[
-                { icon: '💬', label: 'WhatsApp', value: '+254 700 000 000', href: 'https://wa.me/254771910278' },
+                { icon: '💬', label: 'WhatsApp', value: '+254 771 910 278', href: 'https://wa.me/254771910278' },
                 { icon: '✉️', label: 'Email', value: 'andrewkimani766@gmail.com', href: 'mailto:andrewkimani766@gmail.com' },
                 { icon: '🔗', label: 'LinkedIn', value: 'andrew-kimani', href: 'https://linkedin.com/in/andrew-kimani' },
               ].map(c => (

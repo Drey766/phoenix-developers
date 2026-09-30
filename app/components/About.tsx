@@ -10,7 +10,7 @@ const socials = [
   { label: 'GitHub', handle: '@Drey766', url: 'https://github.com/Drey766' },
   { label: 'LinkedIn', handle: 'Phoenix Developers', url: 'https://linkedin.com/company/phoenix-developers' },
   { label: 'Twitter/X', handle: '@xdrey766', url: 'https://twitter.com/xdrey766' },
-  { label: 'Instagram', handle: '@andrey_kimarr', url: 'https://instagram.com/andrey_kimarr' },
+  { label: 'Instagram', handle: '@phoenix_developers7', url: 'https://instagram.com/phoenix_developers7' },
 ];
 
 export default function About() {

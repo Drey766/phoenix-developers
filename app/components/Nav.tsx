@@ -53,11 +53,15 @@ export default function Nav() {
           display: flex;
           align-items: center;
           gap: 10px;
+          border-radius: 100%;
+          
         }
         .nav-logo-img {
           height: 36px;
-          width: auto;
-          object-fit: contain;
+          width: 36px;
+          object-fit: cover;
+          border-radius: 100%;
+          
         }
         .nav-logo-text {
           font-family: 'Syne', sans-serif;

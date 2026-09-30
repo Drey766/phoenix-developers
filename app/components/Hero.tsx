@@ -296,7 +296,7 @@ export default function Hero() {
           </h1>
 
           <p className="hero-sub">
-            Full-stack e-commerce for Kenyan small businesses — M-Pesa checkout, WhatsApp order alerts,
+            We build full-stack e-commerce for Kenyan businesses — M-Pesa checkout, WhatsApp order alerts,
             and a full product admin. Launch-ready in weeks, not months.
           </p>
 
